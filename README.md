@@ -3,6 +3,7 @@
 
 A simple crypto prices listing application. It consumes the [CoinGecko](https://www.coingecko.com/en/api) API.
 
+<br><br>
 
 ## Tech Stack
 
