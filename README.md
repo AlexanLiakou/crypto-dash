@@ -3,7 +3,7 @@
 
 A simple crypto prices listing application. It consumes the [CoinGecko](https://www.coingecko.com/en/api) API.
 
-<br><br>
+<br>
 
 ## Tech Stack
 
@@ -11,6 +11,7 @@ A simple crypto prices listing application. It consumes the [CoinGecko](https://
 
 **Packages:** [Chart.js](https://www.chartjs.org/), [React Spinners](https://www.npmjs.com/package/react-spinners)
 
+<br>
 
 ## Environment Variables
 
@@ -20,11 +21,13 @@ To run this project, you will need to add the following environment variables to
 
 `VITE_API_COIN_URL='https://api.coingecko.com/api/v3/coins'`
 
+<br>
 
 ## Demo
 
 [Crypto Overview](https://crypto-dash-nu-ten.vercel.app/)
 
+<br>
 
 ## Run Locally
 
@@ -52,6 +55,7 @@ Start the server
   npm run dev
 ```
 
+<br>
 
 ## License
 
