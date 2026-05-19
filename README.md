@@ -23,6 +23,12 @@ To run this project, you will need to add the following environment variables to
 
 <br>
 
+## GitHub Repository
+
+[Repo](https://github.com/AlexanLiakou/crypto-dash)
+
+<br>
+
 ## Demo
 
 [Crypto Overview](https://crypto-dash-nu-ten.vercel.app/)
